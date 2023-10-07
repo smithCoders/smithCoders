@@ -1,4 +1,4 @@
-![passionate full-stack developer](https://pbs.twimg.com/profile_banners/1635921856095039488/1696666320/600x200)
+
 # Hi there 👋, I'm Esmael Abdlkadr!
 ## passionate Full-stack developer
 
@@ -12,7 +12,24 @@ When I'm not coding, you can find me enjoying a good cup of coffee ☕ and explo
 Let's connect and collaborate on exciting projects!
 
 ## Skills and Experiences
-Skills:  NODEJS/EXPRESSJS/MONGODB / REACT/REDUX  / JS / HTML / CSS/SASS/TAILWIND
+
+### Front-end Development
+- HTML5 ![HTML5 Icon](https://img.icons8.com/color/24/000000/html-5.png)
+- CSS3 ![CSS3 Icon](https://img.icons8.com/color/24/000000/css3.png)
+- SASS ![SASS Icon](https://img.icons8.com/color/24/000000/sass.png)
+- React ![React Icon](https://img.icons8.com/color/24/000000/react-native.png)
+- Redux ![Redux Icon](https://img.icons8.com/color/24/000000/redux.png)
+
+### Back-end Development
+- Node.js ![Node.js Icon](https://img.icons8.com/color/24/000000/nodejs.png)
+- Express.js ![Express.js Icon](https://img.icons8.com/color/24/000000/express.png)
+- MongoDB ![MongoDB Icon](https://img.icons8.com/color/24/000000/mongodb.png)
+
+### Other Skills
+- JavaScript ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png)
+- Tailwind CSS ![Tailwind CSS Icon](https://img.icons8.com/color/24/000000/tailwind-css.png)
+
+
   
 
 - 🌱 I’m currently learning Advanced Nodejs patterns 
