@@ -27,7 +27,7 @@ Let's connect and collaborate on exciting projects!
 
 ### Other Skills
 - JavaScript ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png)
-- Tailwind CSS ![Tailwind CSS Icon](https://img.icons8.com/color/24/000000/tailwind-css.png)
+- Tailwind CSS
 
 
   
