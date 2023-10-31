@@ -1,9 +1,9 @@
 
 # Hi there 👋, I'm Esmael Abdlkadr!
-## passionate Full-stack developer
+## MERN stack  developer
 
 
-I'm a passionate full-stack developer based in Ethiopia  🇪🇹. With a strong foundation in both front-end and back-end technologies, I love crafting innovative and user-friendly web applications. 
+I'm a passionate MERN stack developer based in Ethiopia  🇪🇹. With a strong foundation in both front-end and back-end technologies, I love crafting innovative and user-friendly web applications. 
 
 🚀 My tech stack includes JavaScript, Node.js, React, and MongoDB. I'm constantly exploring new technologies and methodologies to build scalable and robust software solutions.
 
@@ -18,7 +18,7 @@ Let's connect and collaborate on exciting projects!
 - CSS3 ![CSS3 Icon](https://img.icons8.com/color/24/000000/css3.png)
 - SASS ![SASS Icon](https://img.icons8.com/color/24/000000/sass.png)
 - React ![React Icon](https://img.icons8.com/color/24/000000/react-native.png)
-- Redux ![Redux Icon](https://img.icons8.com/color/24/000000/redux.png)
+
 
 ### Back-end Development
 - Node.js ![Node.js Icon](https://img.icons8.com/color/24/000000/nodejs.png)
