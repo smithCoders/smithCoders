@@ -1,40 +1,26 @@
 
 # Hi there 👋, I'm Esmael Abdlkadr!
-## MERN stack  developer
+## Backend Developer | Node.js | Express.js | MongoDB
+I'm a dedicated backend developer based in Ethiopia 🇪🇹, specializing in backend technologies with a focus on the MERN stack. My expertise lies in crafting robust and scalable web applications, particularly in developing REST APIs.
 
+🚀 Here's a glimpse of my current tech stack: JavaScript, Node.js, Express.js, and MongoDB. I am continuously learning and have recently delved into Django, Postgres, and MySQL to broaden my skill set.
 
-I'm a passionate MERN stack developer based in Ethiopia  🇪🇹. With a strong foundation in both front-end and back-end technologies, I love crafting innovative and user-friendly web applications. 
-
-🚀 My tech stack includes JavaScript, Node.js, React, and MongoDB. I'm constantly exploring new technologies and methodologies to build scalable and robust software solutions.
-
-When I'm not coding, you can find me enjoying a good cup of coffee ☕ and exploring the beautiful landscapes of Ethiopia.
+When I'm not immersed in code, you can catch me savoring a delightful cup of coffee ☕ or exploring the picturesque landscapes of Ethiopia.
 
 Let's connect and collaborate on exciting projects!
-
 ## Skills and Experiences
-
-### Front-end Development
-- HTML5 ![HTML5 Icon](https://img.icons8.com/color/24/000000/html-5.png)
-- CSS3 ![CSS3 Icon](https://img.icons8.com/color/24/000000/css3.png)
-- SASS ![SASS Icon](https://img.icons8.com/color/24/000000/sass.png)
-- React ![React Icon](https://img.icons8.com/color/24/000000/react-native.png)
-
-
 ### Back-end Development
 - Node.js ![Node.js Icon](https://img.icons8.com/color/24/000000/nodejs.png)
 - Express.js ![Express.js Icon](https://img.icons8.com/color/24/000000/express.png)
 - MongoDB ![MongoDB Icon](https://img.icons8.com/color/24/000000/mongodb.png)
 
-### Other Skills
-- JavaScript ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png)
-- Tailwind CSS
 
 
-  
+🌱 Currently learning Django, Postgres, and MySQL.
 
-- 🌱 I’m currently learning Advanced Nodejs patterns 
-- 💬 Ask me about React,  Nodejs, HTML,CSS,JS, 
-- 📫 How to reach me: just sayme Hello, on my social medias 
+💬 Ask me about Node.js, Express.js, MongoDB, Django, and backend development in general.
+
+📫 Reach out to me: Just drop a "Hello" on my social media.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smithCoders)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/esmaelabdlkadr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/esm__ael/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/smithcodder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/smithcodder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/smithcodder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21276709/smith-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://esmael-abdlkadr.vercel.app/)  
