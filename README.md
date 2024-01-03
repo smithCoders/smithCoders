@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Esmael Abdlkadr!
+# Hi there 👋, I'm Esmael Abdlkadr
 ## Backend Developer | Node.js | Express.js | MongoDB
 I'm a dedicated backend developer based in Ethiopia 🇪🇹, specializing in backend technologies with a focus on the MERN stack. My expertise lies in crafting robust and scalable web applications, particularly in developing REST APIs.
 
@@ -18,7 +18,7 @@ Let's connect and collaborate on exciting projects!
 
 🌱 Currently learning Django, Postgres, and MySQL.
 
-💬 Ask me about Node.js, Express.js, MongoDB, Django, and backend development in general.
+💬 Ask me about Node.js, Express.js, MongoDB and backend development in general.
 
 📫 Reach out to me: Just drop a "Hello" on my social media.
 
