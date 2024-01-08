@@ -16,7 +16,7 @@ Let's connect and collaborate on exciting projects!
 
 
 
-🌱 Currently learning Django, Postgres, and MySQL.
+🌱 Currently learning Django, Postgres.
 
 💬 Ask me about Node.js, Express.js, MongoDB and backend development in general.
 
