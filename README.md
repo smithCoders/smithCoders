@@ -5,7 +5,7 @@ I'm a dedicated backend developer based in Ethiopia 🇪🇹, specializing in ba
 
 🚀 Here's a glimpse of my current tech stack: JavaScript, Node.js, Express.js, and MongoDB. I am continuously learning and have recently delved into Django, Postgres, and MySQL to broaden my skill set.
 
-When I'm not immersed in code, you can catch me savoring a delightful cup of coffee ☕ or exploring the picturesque landscapes of Ethiopia.
+
 
 Let's connect and collaborate on exciting projects!
 ## Skills and Experiences
