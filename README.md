@@ -1,26 +1,30 @@
 
 # Hi there 👋, I'm Esmael Abdlkadr
-## Backend Developer | Node.js | Express.js | MongoDB
-I'm a dedicated backend developer based in Ethiopia 🇪🇹, specializing in backend technologies with a focus on the MERN stack. My expertise lies in crafting robust and scalable web applications, particularly in developing REST APIs.
+## Full-stack Developer | Node.js | React.js | Next.js | Tailwind CSS | React Query
 
-🚀 Here's a glimpse of my current tech stack: JavaScript, Node.js, Express.js, and MongoDB. I am continuously learning and have recently delved into Django, Postgres, and MySQL to broaden my skill set.
+🌍 Based in Ethiopia 🇪🇹 | 🚀 Passionate about crafting exceptional web experiences
 
+Welcome to my GitHub profile! I'm Esmael, a dedicated full-stack developer with expertise in building robust and scalable web applications. I thrive on exploring and implementing cutting-edge technologies to create seamless user experiences.
 
+### Tech Stack
 
-Let's connect and collaborate on exciting projects!
-## Skills and Experiences
-### Back-end Development
+- JavaScript ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png)
 - Node.js ![Node.js Icon](https://img.icons8.com/color/24/000000/nodejs.png)
 - Express.js ![Express.js Icon](https://img.icons8.com/color/24/000000/express.png)
 - MongoDB ![MongoDB Icon](https://img.icons8.com/color/24/000000/mongodb.png)
+- React.js ![React.js Icon](https://img.icons8.com/plasticine/24/000000/react.png)
+- Next.js ![Next.js Icon](https://img.icons8.com/color/24/000000/nextjs.png)
+- Tailwind CSS 
+- React Query 
+
+### 🌱 Currently exploring the amazing React ecosystem.
 
 
 
-🌱 Currently learning Django, Postgres.
+📫 Reach out to me: Drop a "Hello" on my social media.
 
-💬 Ask me about Node.js, Express.js, MongoDB and backend development in general.
+Let's connect and collaborate on exciting projects!
 
-📫 Reach out to me: Just drop a "Hello" on my social media.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smithCoders)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/esmaelabdlkadr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/esm__ael/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/smithcodder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/smithcodder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/smithcodder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21276709/smith-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://esmael-abdlkadr.vercel.app/)  
