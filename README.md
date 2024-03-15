@@ -1,10 +1,10 @@
 
 # Hi there 👋, I'm Esmael Abdlkadr
-## Full-stack Developer | Node.js | React.js | Next.js | Tailwind CSS | React Query
+## Full-stack Developer | Node.js | React.js | Next.js |   React Query | CSS Frameworks
 
 🌍 Based in Ethiopia 🇪🇹 | 🚀 Passionate about crafting exceptional web experiences
 
-Welcome to my GitHub profile! I'm Esmael, a dedicated full-stack developer with expertise in building robust and scalable web applications. I thrive on exploring and implementing cutting-edge technologies to create seamless user experiences.
+Welcome to my GitHub profile! I'm Esmael, full-stack developer with expertise in building robust and scalable web applications. I thrive on exploring and implementing cutting-edge technologies to create seamless user experiences.
 
 ### Tech Stack
 
@@ -14,11 +14,9 @@ Welcome to my GitHub profile! I'm Esmael, a dedicated full-stack developer with 
 - MongoDB ![MongoDB Icon](https://img.icons8.com/color/24/000000/mongodb.png)
 - React.js ![React.js Icon](https://img.icons8.com/plasticine/24/000000/react.png)
 - Next.js ![Next.js Icon](https://img.icons8.com/color/24/000000/nextjs.png)
-- Tailwind CSS 
-- React Query 
-
-### 🌱 Currently exploring the amazing React ecosystem.
-
+- Tailwind CSS, 
+- React Query
+- zustand
 
 
 📫 Reach out to me: Drop a "Hello" on my social media.
