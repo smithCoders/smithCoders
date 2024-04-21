@@ -1,6 +1,6 @@
 
 # Hi there 👋, I'm Esmael Abdlkadr
-## Full-stack Developer | Node.js |Express.js| React.js | Next.js |   React Query | CSS Frameworks
+## Full-stack Developer | Node.js |Express.js| React.js | TypeScript |   React Query | CSS Frameworks
 
 🌍 Based in Ethiopia 🇪🇹 | 🚀 Passionate about crafting exceptional web experiences
 
