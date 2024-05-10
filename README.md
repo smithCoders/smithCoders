@@ -13,10 +13,9 @@ Welcome to my GitHub profile! I'm Esmael, full-stack developer with expertise in
 - Express.js ![Express.js Icon](https://img.icons8.com/color/24/000000/express.png)
 - MongoDB ![MongoDB Icon](https://img.icons8.com/color/24/000000/mongodb.png)
 - React.js ![React.js Icon](https://img.icons8.com/plasticine/24/000000/react.png)
-- Next.js ![Next.js Icon](https://img.icons8.com/color/24/000000/nextjs.png)
 - Tailwind CSS, 
 - React Query
-- zustand
+
 
 
 📫 Reach out to me: Drop a "Hello" on my social media.
