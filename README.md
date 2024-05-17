@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm Esmael, full-stack developer with expertise in
 - React.js ![React.js Icon](https://img.icons8.com/plasticine/24/000000/react.png)
 - Tailwind CSS, 
 - React Query
+- Socket.io
 
 
 
