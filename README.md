@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm Esmael, full-stack developer with expertise in building robust and scalable web applications. I thrive on exploring and implementing cutting-edge technologies to create seamless user experiences.
 
-### Tech Stack
+### Tech Stacks
 
 - JavaScript ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png)
 - Node.js ![Node.js Icon](https://img.icons8.com/color/24/000000/nodejs.png)
