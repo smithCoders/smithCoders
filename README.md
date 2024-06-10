@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Esmael Abdlkadr
 ## Full-stack Developer | Node.js |Express.js| React.js | TypeScript |   React Query | CSS Frameworks
 
-🌍 Based in Ethiopia 🇪🇹 | 🚀 Passionate about crafting exceptional web experiences
+🌍 Based in Ethiopia 🇪🇹 | 🚀 Passionate about crafting exceptional web experience
 
 Welcome to my GitHub profile! I'm Esmael, full-stack developer with expertise in building robust and scalable web applications. I thrive on exploring and implementing cutting-edge technologies to create seamless user experiences.
 
